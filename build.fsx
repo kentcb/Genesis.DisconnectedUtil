@@ -3,10 +3,6 @@
 
 open Fake
 open Fake.AssemblyInfoFile
-open Fake.EnvironmentHelper
-open Fake.MSBuildHelper
-open Fake.NuGetHelper
-open Fake.Testing.XUnit2
 
 // properties
 let projectName = "Genesis.DisconnectedUtil"
